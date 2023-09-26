@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\bin\Debug\net6.0\HomeTaskOne.exe
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\bin\Debug\net6.0\HomeTaskOne.deps.json
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\bin\Debug\net6.0\HomeTaskOne.runtimeconfig.json
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\bin\Debug\net6.0\HomeTaskOne.dll
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\bin\Debug\net6.0\HomeTaskOne.pdb
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\HomeTaskOne.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\HomeTaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\HomeTaskOne.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\HomeTaskOne.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\HomeTaskOne.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\HomeTaskOne.dll
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\refint\HomeTaskOne.dll
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\HomeTaskOne.pdb
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\HomeTaskOne.genruntimeconfig.cache
+C:\Users\User\Desktop\HomeTaskOne\HomeTaskOne\obj\Debug\net6.0\ref\HomeTaskOne.dll
